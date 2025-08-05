@@ -11,7 +11,7 @@
 
 // Simulation window dimensions - matching sdl_render.c
 #define WIDTH 1280
-#define HEIGHT 1500
+#define HEIGHT 1280
 #define COLOR_WHITE 0xffffffff
 #define COLOR_BLACK 0x00000000
 
